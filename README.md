@@ -1,4 +1,4 @@
-# Internship-Project
+# Internship-Project on GNN
 Here I did a Project on GNN to predict the link between the user and their attended events.
 
 "mtags&event&tags" file has dictionaries, of users and events, which is actually feature vectors. Here for users' feature dimension is (125997,1001) and for event's feature dimension is (115571,1548).
