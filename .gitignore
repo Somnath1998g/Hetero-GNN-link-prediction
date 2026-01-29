@@ -1,0 +1,16 @@
+# data
+data/raw/
+data/processed/
+*.pkl
+*.pickle
+*.json
+*.csv
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
